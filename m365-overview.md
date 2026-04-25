@@ -7,3 +7,4 @@ File storage and sharing are handled through **OneDrive**.
 The service includes security, compliance, and identity management features powered by Microsoft **Entra ID (Azure AD)**.
 Depending on the plan, Microsoft 365 also offers device management through **Microsoft Intune**.
 Overall, Microsoft 365 integrates apps, cloud services, and security into a single subscription to support modern work.
+mmmnbn
